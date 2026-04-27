@@ -1,0 +1,10 @@
+title: "我的博客"
+description: "数据分析学习笔记"
+theme: minima  # GitHub 支持的主题
+author:
+  name: "yue"
+  email: "12311658@sustech.mail.educn"
+
+# 自定义域名（后面会配置）
+# url: "https://yourname.me"
+
